@@ -312,6 +312,7 @@ p.link {
 .links a {
     text-decoration: underline;
     color: white;
+    word-wrap: break-word;
 }
 
 /*Footer*/
@@ -417,7 +418,7 @@ footer i {
         transition:  .9s;
         text-decoration: underline;
         color: #4da6ff;
-        transform: scale(1.2)
+        transform: scale(.9)
         
     }
 }
